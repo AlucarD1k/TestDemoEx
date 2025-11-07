@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
+	<ConfigVersions>
+		<Metadata name="Catalog.Пользователи" id="86e1a76b-974d-44e8-b5f7-0b83755b54f1" configVersion="dff806a39b470446808a22d0ceaa949c00000000">
+			<Metadata name="Catalog.Пользователи.Attribute.Логин" id="08c134c3-738d-4dc5-9b6c-c28cdc77320e"/>
+			<Metadata name="Catalog.Пользователи.Attribute.РольСотрудника" id="19ff4088-0b0a-469d-84c8-c2daff0f953e"/>
+			<Metadata name="Catalog.Пользователи.Attribute.Пароль" id="e8b37cc9-3a0b-427f-861a-b0ad31146900"/>
+		</Metadata>
+		<Metadata name="Catalog.ПунктыВыдачи" id="c5fdaf21-1405-44f8-870c-ec3c599b45f7" configVersion="e602d41470fbd84ea867fd82b5e016fd00000000"/>
+		<Metadata name="Catalog.РолиСотрудников" id="f7931331-98e5-47fe-bea0-b89fa731a37d" configVersion="5b60043d844e794ab57958e180efe49400000000"/>
+		<Metadata name="Catalog.Товары" id="d6e38729-28c1-49d4-ba83-a8700e6eff91" configVersion="6d43fe9bd54c044086ee9ee5b7b4778e00000000">
+			<Metadata name="Catalog.Товары.Attribute.ОписаниеТовара" id="0b01673c-7185-4178-9a77-90c3ac9b93be"/>
+			<Metadata name="Catalog.Товары.Attribute.Поставщик" id="21770918-1a30-4f44-a751-c0c8179b19ba"/>
+			<Metadata name="Catalog.Товары.Attribute.Цена" id="2a45ca23-f9d5-48df-9f93-71bbe0050883"/>
+			<Metadata name="Catalog.Товары.Attribute.ЕдиницаИзмерения" id="73afe8cb-3813-48c9-9bcd-376e16c8df6b"/>
+			<Metadata name="Catalog.Товары.Attribute.Производитель" id="76e79156-9c3f-4440-8074-d05b8ac17a49"/>
+			<Metadata name="Catalog.Товары.Attribute.Фото" id="7f7f9b89-e41d-4c5e-95bd-085930f9f6d7"/>
+			<Metadata name="Catalog.Товары.Attribute.Артикул" id="827f98df-9d15-42af-8ba8-2ca465a021ad"/>
+			<Metadata name="Catalog.Товары.Attribute.КоличествоНаСкладе" id="9799adf0-45d6-42f0-bc21-b003be8b9d68"/>
+			<Metadata name="Catalog.Товары.Attribute.КатегорияТовара" id="d90685c6-bf8d-4dea-840f-05e516225753"/>
+			<Metadata name="Catalog.Товары.Attribute.ДействующаяСкидка" id="dc4e438e-f1b6-4584-bac8-4abdd3e68adb"/>
+		</Metadata>
+		<Metadata name="Catalog.Товары.Form.ФормаСписка" id="b3e9140f-ce36-4581-808d-ad50a2fba554" configVersion="5db93d02d2e31645a5f08f955fc7d59500000000"/>
+		<Metadata name="Catalog.Товары.Form.ФормаСписка.Form" id="b3e9140f-ce36-4581-808d-ad50a2fba554.0" configVersion="f46e8fdd91b7f448bbf4de381fb023a000000000"/>
+		<Metadata name="Catalog.Товары.Form.ФормаЭлемента" id="5d457126-b54f-41da-9108-e2ee40d4e184" configVersion="13c58c3a51de9b41afd78ccefc41cb6300000000"/>
+		<Metadata name="Catalog.Товары.Form.ФормаЭлемента.Form" id="5d457126-b54f-41da-9108-e2ee40d4e184.0" configVersion="1d12a619360a59479c584d0cc378c4bc00000000"/>
+		<Metadata name="CommonPicture.Заглушка" id="5a13b3be-5732-474a-908f-5ac51ece3c0f" configVersion="0e95bf0ace0ebe4995cb512ffbd8d8d600000000"/>
+		<Metadata name="CommonPicture.Заглушка.Picture" id="5a13b3be-5732-474a-908f-5ac51ece3c0f.0" configVersion="7b03a00e893068449f859255d3c272dd00000000"/>
+		<Metadata name="CommonPicture.Обувь1" id="6bfa5390-1e27-41a6-b14e-1af64648742d" configVersion="447ca08056f5b344b1b1aa18b171686100000000"/>
+		<Metadata name="CommonPicture.Обувь1.Picture" id="6bfa5390-1e27-41a6-b14e-1af64648742d.0" configVersion="e610ef4838599945a783a73e602b594c00000000"/>
+		<Metadata name="CommonPicture.Обувь10" id="f0562a89-b49d-41bb-81a5-910be502e4e8" configVersion="3377033bceea5340b46d7432fba1179100000000"/>
+		<Metadata name="CommonPicture.Обувь10.Picture" id="f0562a89-b49d-41bb-81a5-910be502e4e8.0" configVersion="b0f0db58843d9a4680c3fb641a6e861d00000000"/>
+		<Metadata name="CommonPicture.Обувь2" id="df088d63-a52d-4926-8199-8b087ed0248d" configVersion="44ccc92d004c974dba61da29643c922700000000"/>
+		<Metadata name="CommonPicture.Обувь2.Picture" id="df088d63-a52d-4926-8199-8b087ed0248d.0" configVersion="8365e6d2f3f56c4cb73384989461196500000000"/>
+		<Metadata name="CommonPicture.Обувь3" id="73c5de61-ecbc-4e89-a992-31814eea519b" configVersion="45ae25e62977f44eaf13d32427f4248e00000000"/>
+		<Metadata name="CommonPicture.Обувь3.Picture" id="73c5de61-ecbc-4e89-a992-31814eea519b.0" configVersion="20e5d67f22a0124f983f72b3f67e6a3000000000"/>
+		<Metadata name="CommonPicture.Обувь4" id="2e46e7c3-6364-4858-8800-18e874d93c38" configVersion="584f10eeadc46f47bc1ad003a93fd74b00000000"/>
+		<Metadata name="CommonPicture.Обувь4.Picture" id="2e46e7c3-6364-4858-8800-18e874d93c38.0" configVersion="11e00af88c10e94c88a344d076360f9b00000000"/>
+		<Metadata name="CommonPicture.Обувь5" id="da99ae53-711f-49f5-a5e0-9458c792cd8a" configVersion="d007bb27614bec4ebd87eb0a91e8c9cb00000000"/>
+		<Metadata name="CommonPicture.Обувь5.Picture" id="da99ae53-711f-49f5-a5e0-9458c792cd8a.0" configVersion="30aa2557d3d07a4fa08ae993318ffc6300000000"/>
+		<Metadata name="CommonPicture.Обувь6" id="ece630a1-010f-40c1-b248-6f391d1bfd1c" configVersion="7f49d6ad562cf84386f3cfb344cebef900000000"/>
+		<Metadata name="CommonPicture.Обувь6.Picture" id="ece630a1-010f-40c1-b248-6f391d1bfd1c.0" configVersion="4e6361f4890eb74ea5d7ac269e5c155100000000"/>
+		<Metadata name="CommonPicture.Обувь7" id="f0a2e968-8e68-4e0f-98ae-7437b2761855" configVersion="47ef852ef9ac784094a99b2b272753c000000000"/>
+		<Metadata name="CommonPicture.Обувь7.Picture" id="f0a2e968-8e68-4e0f-98ae-7437b2761855.0" configVersion="00c46a1db6714b4d970ed4827055b48900000000"/>
+		<Metadata name="CommonPicture.Обувь8" id="95fd1403-1590-45a7-82d5-93dfd2c659b4" configVersion="d2bdf1c0da4cad46826b86477cfede0e00000000"/>
+		<Metadata name="CommonPicture.Обувь8.Picture" id="95fd1403-1590-45a7-82d5-93dfd2c659b4.0" configVersion="0a1904ed26ecda469d26d009470b196400000000"/>
+		<Metadata name="CommonPicture.Обувь9" id="b05cdcfc-dfcd-4fa5-89dd-557d519c10bb" configVersion="ce20b39c3915704abe345e1f23c8683b00000000"/>
+		<Metadata name="CommonPicture.Обувь9.Picture" id="b05cdcfc-dfcd-4fa5-89dd-557d519c10bb.0" configVersion="925426ec4a2c1e4aabf7317139ea12e900000000"/>
+		<Metadata name="Configuration.Конфигурация" id="ad5af35b-7c9d-484a-a816-ee5e0f7c98fb" configVersion="020b9a401857124db035c2e812b842ca00000000"/>
+		<Metadata name="Document.Заказы" id="b88e85c3-f27b-41e0-b4af-67672b4cdd01" configVersion="4cc59ce93a8d0b48bfabc0874c770a2100000000">
+			<Metadata name="Document.Заказы.Attribute.ФИОАвторизированногоКлиента" id="364afd16-3cc0-4081-9211-ae95b3675786"/>
+			<Metadata name="Document.Заказы.Attribute.АртикулЗаказа" id="4c382b0a-920c-4b72-afcd-c9563f13e1ae"/>
+			<Metadata name="Document.Заказы.Attribute.НомерЗаказа" id="6041792e-4940-44ce-a04d-4b7e61ff19e1"/>
+			<Metadata name="Document.Заказы.Attribute.СтатусЗаказа" id="7f172196-07b9-41b9-9d47-574d496161aa"/>
+			<Metadata name="Document.Заказы.Attribute.КодДляПолучения" id="a5f27195-f7b4-4eee-a2d5-179e3a076f4b"/>
+			<Metadata name="Document.Заказы.Attribute.ДатаДоставки" id="a89920fd-8fa4-4152-9ef0-945f658b374c"/>
+			<Metadata name="Document.Заказы.Attribute.АдресПунктаВыдачи" id="d31e302b-cc4d-400d-9f4e-5eb919da0fd2"/>
+		</Metadata>
+		<Metadata name="Document.Заказы.Form.ФормаСписка" id="a3be47a8-c814-444d-b97c-077a1a8a1bb0" configVersion="83503c7b6c9b7f458960819922df9b8100000000"/>
+		<Metadata name="Document.Заказы.Form.ФормаСписка.Form" id="a3be47a8-c814-444d-b97c-077a1a8a1bb0.0" configVersion="5c736abb61d16f4d98fc563a011e767300000000"/>
+		<Metadata name="Enum.КатегорииТоваров" id="1573c1cf-a0d3-401d-97d1-0c8180b3f2c0" configVersion="42aa1f8e46557d43a50e85dcf416810100000000">
+			<Metadata name="Enum.КатегорииТоваров.EnumValue.ЖенскаяОбувь" id="0d4d25ed-c0f0-489e-9a44-ef4517d12415"/>
+			<Metadata name="Enum.КатегорииТоваров.EnumValue.МужскаяОбувь" id="eca00208-2c92-4322-9341-cac35d13a0c2"/>
+		</Metadata>
+		<Metadata name="Enum.СтатусыЗаказа" id="1090a4fc-5566-4c1e-b2b8-f5b7ee1db009" configVersion="6111c98191d50c4e8743503bab5478b400000000">
+			<Metadata name="Enum.СтатусыЗаказа.EnumValue.Новый" id="72710785-fed3-4d55-b18d-d7b2ffd3cf77"/>
+			<Metadata name="Enum.СтатусыЗаказа.EnumValue.Завершен" id="7dec792d-f15f-4aae-952d-782a599498c4"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="de43266d-f47c-45af-9570-d1de06a346b3" configVersion="14b5b26d25770e4e89e81e547d107ffa00000000"/>
+		<Metadata name="Role.Администратор" id="8faa255c-9fab-4354-ad89-a83c6a1f2fe7" configVersion="9b014726c5a8e9469f723902476f5e5b00000000"/>
+		<Metadata name="Role.Администратор.Rights" id="8faa255c-9fab-4354-ad89-a83c6a1f2fe7.0" configVersion="937811452f7ba94ab9502136df0fa32300000000"/>
+		<Metadata name="Role.Менеджер" id="7b7ec71f-f87f-405d-8c4a-f2b48e32ba72" configVersion="f7634a5b06366b40aa813815e26a4b3800000000"/>
+		<Metadata name="Role.Менеджер.Rights" id="7b7ec71f-f87f-405d-8c4a-f2b48e32ba72.0" configVersion="591d13d5d3b79e4e96c4ac2c5e6ca6d200000000"/>
+		<Metadata name="Role.Сотрудник" id="b728639e-a2f5-44a1-b746-f870fce73409" configVersion="6cc79631ffbc974f9dee17b689e6d91800000000"/>
+		<Metadata name="Role.Сотрудник.Rights" id="b728639e-a2f5-44a1-b746-f870fce73409.0" configVersion="d7f8484e857f8f499acc5081f6c9fd7400000000"/>
+		<Metadata name="Style.Стиль1" id="832c1674-9525-420c-b1ff-370fd8cd48aa" configVersion="1e5b827006e61c4183348fa0aa2baa2900000000"/>
+		<Metadata name="Style.Стиль1.Style" id="832c1674-9525-420c-b1ff-370fd8cd48aa.0" configVersion="a012ecbc5dddc643b0e0b23eb56b03fa00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
